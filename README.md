@@ -6,7 +6,7 @@
 
 ## Dataset
 
-**1. MA_ACS_Data_byYear.csv
+**1. MA_ACS_Data_byYear.csv**
 ---
 - Zip Code level population data and social determinants of health variables in Massachusetts. 
 
@@ -19,7 +19,7 @@
 
 **1. About: project decsription and publications.**
 
-**2. MA Mortability: interactive map. **
+**2. MA Mortability: interactive map.**
 
 **3. Teams: introduction of the team members from the P2P project.**
 
